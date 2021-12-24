@@ -1,0 +1,71 @@
+@charset "EUC-KR";
+
+header{background: #bcbcbc;padding:5px;margin-bottom:0px;}
+    #maintitle{
+    	font-size:30px;
+    	font-weight: bold;
+    	text-align:left;
+    	text-decoration: none;
+    	color:black;
+    }
+    #na{ margin-top:2px;
+    	padding:3px;
+    	font-size:20px;
+    	background: #cdcdcd;
+    	margin-bottom:0px;
+    }
+    #logout{
+    	margin-left:1150px; 
+    	text-decoration: none;
+    	font-weight: bold;
+    	text-align:right;
+    	color:black;
+    	
+    }
+    #container{
+    	margin-top:2px;
+      overflow:auto;
+      margin:5px 0px;
+    }
+    #nav{
+    background: #dddddd;
+      margin-right: 3%;
+      width: 15%;
+      float: left;
+      height: 500px;
+    }
+    #content{
+    margin-top:15px;
+      position: relative;
+      float: left;
+    }
+    footer{
+      border: 1px solid black;
+      text-align: center;
+      clear: left;
+    }
+    #nav ul li{
+      height: 35px;
+      list-style-type: none;
+    }
+    .text-box{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
+    .first{
+    text-align:left;
+    	font-size:14px;
+    	font-weight: bold;
+    }
+    .plus{
+    	text-align:left;
+    	font-size:14px;
+    	
+    }
+    .plus1{
+    text-align:left;
+    	font-size:14px;
+    	text-decoration: none;
+    	color:blue;
+    }
